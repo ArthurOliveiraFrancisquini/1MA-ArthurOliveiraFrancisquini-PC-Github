@@ -1,9 +1,12 @@
 h1 {
     text-align: center;
+    background-color: #b33435;
+    color: #5f9ea0;
+    font-size: 60px;
 }
 
 p {
     text-align: center;
-    color: #b2c8ba
+    color: #b2c8ba;
     font-size; 30px;
 }
